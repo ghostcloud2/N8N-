@@ -31,6 +31,12 @@ docker run -it --rm --name n8n -p 5678:5678 -v n8n_data:/home/node/.n8n docker.n
 
 Access the editor at http://localhost:5678
 
+## Vercel Deployment
+
+To deploy this project to Vercel, you will need to install and configure the Vercel CLI.
+
+1. Install the Vercel CLI globally:
+
 ## Resources
 
 - 📚 [Documentation](https://docs.n8n.io)
